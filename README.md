@@ -10,11 +10,14 @@ Business problem: To predict the sales of items that sold the most and the avera
 * Data models being trained into different regression models for variations
 * Data is shown through visual interpretation of data
 ## Results
-### Chart of most items sold in dataset
+### Most items sold in dataset
 ![image](https://user-images.githubusercontent.com/111465865/191916046-a31354d4-f7d6-4867-a0e5-73b88c1a20df.png)
 
 This visual presentation represents which items are in dataset and how many of them sold
+### Outlet type average sales
+![image](https://user-images.githubusercontent.com/111465865/191918864-006323c7-2ce5-4c46-83be-7f123b90255f.png)
 
+This visual graph represents the outlet types with highest average sales
 ## Model
 The model used for the data was a Decision Tree regression. This model is reliable for preciting continuous value
 
